@@ -4,6 +4,7 @@
 Topics:
 - Variables
 - Conditions (```if```-```else```)
+- Loops (```while```,```for```)
 - Handling Exceptions (```try```- ```catch```)
 - Custom Data Structure
 - Custom Data Element
