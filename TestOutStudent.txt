@@ -1,0 +1,7 @@
+ egins: 3
+journey: 1
+miles: 2
+single: 4
+step: 4
+thousand: 2
+with: 3

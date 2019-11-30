@@ -1,0 +1,6 @@
+Applets are Java programs that are usually part of a
+Web site. They are stored on a Web server along with the site's
+Web pages. When a remote user accesses a Web page with his or
+her browser, any applets associated with the Web page are
+transmitted over the Internet from the server to the remote
+user's system
